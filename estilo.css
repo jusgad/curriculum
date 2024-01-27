@@ -1,0 +1,193 @@
+header {
+	background: rgb(255, 255, 255);
+    display: flex;
+	color: #1f1f1f;
+    padding: 10px;
+    justify-content: space-evenly;
+    
+
+}
+
+
+.Informacion{
+    align-items: center;
+}
+.contenedor{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+
+h2{
+    font-size:17px ;
+    margin: 0;
+    margin: 10px;
+}
+
+.contacto{
+    width: 60%;
+    height: 5vh;
+    align-items: center;
+    display: flex;
+}
+.correo{
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    
+}
+
+.correo img{
+    height: 20px;
+    flex-direction: column;
+    padding: 5px
+}
+
+.telefono{
+    display:flex ;
+    margin: 10px;
+    align-items: center;
+}
+
+.telefono img{
+    height: 20px;
+    flex-direction: column;
+    padding: 5px
+}
+
+.direccion{
+    display: flex;
+    margin: 10px;
+    align-items: center;
+}
+
+.direccion img{
+    height: 25px;
+    flex-direction: column;
+    padding: 5px
+}
+
+.link{
+    margin: 10px;
+}
+
+.link img{
+    height: 20px;
+}
+
+.git{
+    margin: 10px;
+}
+.git img{
+    height: 20px;
+}
+body {
+	font-family: Arial, sans-serif;
+	margin: 10px;
+	padding: 10px;
+    height: 100vh;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    justify-content: center;
+}
+
+.secundario{
+    font-size: 2vw;
+    text-transform: uppercase;
+    align-items: first baseline;
+    align-items: center;
+    margin: 0;
+}
+.tercero{
+    font-size: 1vw;
+    margin: 0;
+}
+h4{
+    margin: 0;
+    font-size: 1vw;
+    color: #cec0c0;
+}
+.contacto{
+    background-color: #60649c;
+    margin: 0;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.a{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 250px;
+}
+
+.b{
+
+    margin: 10px;
+    width: 500px;
+
+}
+
+.cont{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+}
+p{
+    text-align: justify;
+    margin: 10px;
+}
+.punteada{
+    text-align: justify;
+}
+ul{
+    text-align: justify;
+    margin: 10px;
+}
+
+.exp{
+    display: flex;
+    justify-content: center;
+}
+.labu{
+    width: 500px;
+    flex-direction: column;
+}
+
+.est{
+    width: 250px;
+}
+
+.gris{
+    margin: 0;
+    color: #cec0c0;
+    font-size: 15px;
+}
+
+h3{
+    margin: 0;
+}
+
+.sinnat{
+    margin: 10px;
+}
+.corpe{
+    margin: 10px;
+}
+
+.ieee{
+    margin: 10px;
+}
+.g{
+    margin: 0;
+}
